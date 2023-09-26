@@ -5,13 +5,13 @@ highlight_color: '#073642'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  github: rashiddar
+  #github: rashiddar
   #bitbucket: philipj
   #hacker_news: swanson
   #stackexchange: 348619
   #stackoverflow: 348619
-  twitter: rashiddar
-  facebook: rashid.dar
+  #twitter: rashiddar
+  #facebook: rashid.dar
   #tumblr: animalygifs
   linkedin: rashiddar
   #gplus: 110552447039675960964
@@ -19,11 +19,11 @@ social:
 
 # "Hi, I'm _______"
 name: راشد ڈار
-email: dar.rashid@gmail.com
-tagline: "reader, writer, analyst, faqīr"
+email: rd@firasa.co
+tagline: "Independent consultant and advisor"
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key: UA-29879411-1
 
 # Toggle "Postings are my own" disclaimer in footer
-show_disclaimer: true
+show_disclaimer: false
